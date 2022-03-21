@@ -1,9 +1,9 @@
-# GenMDP
+# <p align="center">GenMDP</p>
 
-Generateur de mots de passes aléatoire inspiré par celui de Graven mais amelioré.
+<p align="center">Random password generator inspired by Graven's but improved.</p>
 
-# Mon site :
+# <p align="center">Mon site :</p>
 
-https://elielehackeur.github.io/moi_crn/
+<p align = "center">https://elielehackeur.github.io/moi_crn/</p>
 
-![eminem](https://user-images.githubusercontent.com/79536652/152001856-111a16bf-8142-4b86-a363-93f21c059af7.jpeg)
+<p align = "center"><img src="https://user-images.githubusercontent.com/79536652/152001856-111a16bf-8142-4b86-a363-93f21c059af7.jpeg"></p>
